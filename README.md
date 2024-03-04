@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [GitGet](https://GitHub.com/hazik-khalid/GitGet)
 
-- 📫 How to reach me **hazik-khalid@proton.me**
+- 📫 How to reach me **hazikkhalid@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
