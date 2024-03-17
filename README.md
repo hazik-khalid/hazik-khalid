@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App development<br>👯 I’m looking to collaborate on GitGet<br>🤝 I’m looking for help with LLM<br>🌱 I’m currently learning KivyMD<br>
+🔭 I’m currently working on App development<br>👯 I’m looking to collaborate on GitGet<br>🤝 I’m looking for help with LLM<br>🌱 I’m currently learning Flutter<br>
 
 
 ## 🌐 Socials:
